@@ -1,2 +1,2 @@
-C1 sample file
+C1 sample file - incorporated comment
 added on line
